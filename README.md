@@ -1,4 +1,4 @@
-# Curated list for Smart Home
+# A curated list for Smart Home
 
 **This is a curated list of technologies, systems and ecosystems for Smart Home.**
 
