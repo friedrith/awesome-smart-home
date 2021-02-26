@@ -13,13 +13,18 @@
 - HomeKit
 - Google Home
 - [Hubitat](https://hubitat.com/)
-
+- [Lidl](https://www.lidl.ie/smart-home)
 
 
 
 
 - [Oura](https://ouraring.com/)
 
+
+## Case Study
+
+- https://www.behance.net/gallery/80461613/Smart-Home-Concept-UIUX-Case-Study
+- http://www.lastlauf.com/work/dwell/
 
 
 - [open technologies](https://github.com/pfalcon/awesome-smarthome)
