@@ -27,7 +27,7 @@ Smart Home systems:
 - [WeMo](https://www.wemo.com/)
 - [Wink](https://www.wink.com/)
 - [Logitech](https://www.logitech.com/en-us/products/harmony/harmony-hub.915-000238.html)
-
+- [Konyks](https://konyks.com/)
 
 Digital Assistants:
 
